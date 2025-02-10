@@ -2,7 +2,7 @@
 
 <br>👋&nbsp; Hi there! I'm AhnDayeon</br>
 
-## <p> Contact </p>
+<h2>Contact</h2>
 <a href="https://yeonnan.hashnode.dev/">
 <img src="https://img.shields.io/badge/Dayeon's BLOG-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
 </a>
@@ -11,7 +11,7 @@
 </a>
 
 
-## <p> Skills </p>
+<h2>Skills</h2>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=whit"/>
 <img src="https://img.shields.io/badge/REDIS-2962FF?style=flat-square&logo=redis&logoColor=whit"/>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
 
-## <p> Status </p>
+<h2>Status</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonnan&show_icons=true&theme=dracula)
 
 
