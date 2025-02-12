@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=whit"/>
 <img src="https://img.shields.io/badge/REDIS-2962FF?style=flat-square&logo=redis&logoColor=whit"/>
-<img src="https://img.shields.io/badge/CELERY-37814A?style=flat-square&logo=celery&logoColor=whit"/>
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
