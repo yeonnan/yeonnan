@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
 
-<h2>Status</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonnan&show_icons=true&theme=dracula)]
-
 
 
 </div>
